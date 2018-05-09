@@ -1,4 +1,5 @@
 #include "./deck.h"
+#include "./dealer.h"
 #include "./player.h"
 
 class game{
